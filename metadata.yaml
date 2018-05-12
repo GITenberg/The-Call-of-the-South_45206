@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43150'
     url: http://www.gutenberg.org/2009/agents/43150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45206#The-Call-of-the-South
 gutenberg_issued: '2014-03-24'
 gutenberg_type: Text
 identifiers:
